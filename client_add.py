@@ -1,7 +1,7 @@
 import requests
 import json
 
-#Couldn't complete it
+#Couldn't complete it, but I tried this
 
 reqUrl = "https://empresas.yachay.lat/includes/api.php"
 
