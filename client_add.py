@@ -9,13 +9,12 @@ headersList = {
  "Accept": "*/*",
  "identifier": "gTxMO3VojXzm6g8vTk6rWt1wjAt5BMdE",
  "secret": "dUA5kAV2aJC2xkHDKTrnrNLHECrjxhGG",
- "Content-Type": "application/json" 
+ "accesskey": "AccesoTemporal$2022$RCP",
+ "action":"AddClient",
 }
 documentType="DNI"
 documentNumber=12365445
 payload = json.dumps({
-    "action":"AddClient",
-    "accesskey": "AccesoTemporal$2022$RCP",
     "firstname" : "John1",
     "lastname" : "Doe1",
     "email" : "john1.doe1@example.com",
